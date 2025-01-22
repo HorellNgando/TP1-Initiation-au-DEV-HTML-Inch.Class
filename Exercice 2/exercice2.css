@@ -1,0 +1,21 @@
+/* selecteur simple (classes) */
+.container{
+    background-color: #d9d9d9;
+}
+.box{
+    background-color: white;
+    border: 1px solid black;
+}
+.box-highlight p{
+    color: blue;
+}
+.list-item{
+    color: green;
+}
+/* selecteur de type */
+div{
+    padding: 10px;
+}
+p{
+    color: red;
+}

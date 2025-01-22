@@ -1,0 +1,18 @@
+body{
+    background-color: #d9d9d9;
+}
+#texte2{
+    font-weight: bold;
+}
+.texte1{
+    font-style: italic;
+}
+.item-highlight{
+    color: blue;
+}
+li[class^="a"]{
+    background-color: yellow;
+}
+li[class$="date"]{
+    background-color: green;
+}

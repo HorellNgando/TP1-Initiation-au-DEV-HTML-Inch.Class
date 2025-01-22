@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+/* selecteur simple (classes) */
+.highlight{
+    color: blue;
+    font-weight: bold;
+}
+.special {
+    border: 2px solid;
+    background-color: #d9d9d9;
+}
+/* selecteur de type  */
+ li{
+    color: white;
+}
+/* selecteur simple (identifiant) */
+#premier{
+    background-color: yellow;
+    font-size: 20px;
+    color: black;
+}
